@@ -21,7 +21,7 @@ Our mission is to ignite the spark of curiosity and innovation in our students. 
     - Our advanced safety and driver assistance suite BozoAssist (with features such as adaptive cruise control, crash mitigation via BozoVision and the Occupancy Network, and emergency AI intervention via BozoLLM)
     - BozoLLM, our custom tuned Llava-based large language model that provides additional input and data for BozoVision, as well as smart decision making.  
     - BozoAimbot, custom technology that automatically aligns our robot with selected targets with the help of BozoVision
-  - BozoAuto Mk. II, the new pre-planned path autonomous subroutine assisted by DeepBozo and BozoLLM in unplanned situations
+  - BozoAuto Mk. II, the new pre-planned path autonomous routine assisted by DeepBozo and BozoLLM in unplanned situations
 
 ### 💻 Our Philosophy
 "Innovation and creativity drive us forward." We believe in the power of 'it ain’t stupid if it works' – a philosophy that guides both our robotics designs and our approach to problem-solving. We cherish our friendly rivalry with Team 1458 Red Tie Robotics and our friendship with Team 852 Athenian Robotics Collective.
