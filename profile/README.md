@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 # Team 1280 - The Ragin’ C-Biscuits
 
 ## Welcome to the Home of Team 1280 - The Ragin’ C-Biscuits! 🤖🚀
