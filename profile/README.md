@@ -59,7 +59,7 @@ Join us on this incredible journey of innovation, teamwork, and success. Go Ragi
 
 ---
 
-This README was generated in its entirety by a large language model. Information may be inaccurate.  
+This README was generated in its entirety by the DeepBozo™ BozoLLM language model. Information may be inaccurate.  
 
 ---
 
