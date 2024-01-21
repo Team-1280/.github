@@ -13,7 +13,15 @@ Our mission is to ignite the spark of curiosity and innovation in our students. 
 - **Founded:** 2003
 - **First Worlds Participation:** 2008
 - **Awards:** Over 30, including Monterey Regional Champs, Rookie Inspiration Award, Rockwell Automation Innovation in Control Award, and more.
-- **Special Projects:** Bozo Autonomous, an R&D project mapping the SRVHS parking lot in an unpredictable yet effective manner.
+- **Special Projects:**
+  - Bozo Autonomous, an R&D project mapping the SRVHS parking lot in an unpredictable yet effective manner.
+  - Jankboard, a custom fully featured replacement for Shuffleboard, presenting data in a much friendlier fashion and providing an extensible API for developing custom features.
+  - DeepBozo, the AI powered autonomous suite, consisting of:
+    - Our proprietary computer vision project BozoVision, powering our revolutionary BozoVision Occupancy Network and providing data for other autonomous subroutines.
+    - Our advanced safety and driver assistance suite BozoAssist (with features such as adaptive cruise control, crash detection and mitigation via BozoVision and the Occupancy Network, and emergency AI intervention via BozoLLM
+    - BozoLLM, our custom tuned Llava large language model that provides additional input and data for BozoVision, as well as smart decision making.  
+    - BozoAimbot, custom technology that automatically aligns our robot with selected targets with the help of BozoVision
+  - BozoAuto Mk. II, the new pre-planned path autonomous subroutine assisted by DeepBozo and BozoLLM in unplanned situations
 
 ### 💻 Our Philosophy
 "Innovation and creativity drive us forward." We believe in the power of 'it ain’t stupid if it works' – a philosophy that guides both our robotics designs and our approach to problem-solving. We cherish our friendly rivalry with Team 1458 Red Tie Robotics and our friendship with Team 852 Athenian Robotics Collective.
